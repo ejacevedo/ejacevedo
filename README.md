@@ -1,5 +1,5 @@
 
-*** 👋 Here's a little bit about me: **
+*** 👋 Here's a little bit about me: ***
 
 - ✨ Developer and DevOps
 - 🌍 Based in Maracaibo, Venezuela.
